@@ -4,6 +4,7 @@ Use it to display your superagent request likes fetch method. Useful when want t
 
 ```javascript
 const agent = require('superagent');
+const superagentToFetch = require('superagent-fetch');
 
 const fetched = agent
     .get('/status')
@@ -24,6 +25,7 @@ A more commplex example:
 
 ```javascript
 const agent = require('superagent');
+const superagentToFetch = require('superagent-fetch');
 
 const fetched = agent
     .post('/status')
