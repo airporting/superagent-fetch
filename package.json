@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "jest": "29.4.1",
-    "superagent": "8.0.8"
+    "superagent": "8.0.9"
   }
 }
