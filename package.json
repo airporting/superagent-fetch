@@ -13,6 +13,6 @@
     "superagent": "8.0.9"
   },
   "dependencies": {
-    "qs": "6.11.0"
+    "qs": "6.11.1"
   }
 }
